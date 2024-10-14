@@ -1,0 +1,5 @@
+re
+tkinter
+inflect
+spacy
+customtkinter
