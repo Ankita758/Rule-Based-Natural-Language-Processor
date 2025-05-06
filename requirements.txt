@@ -1,5 +1,12 @@
-re
-tkinter
-inflect
-spacy
-customtkinter
+customtkinter==5.2.2
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
+inflect==7.4.0
+ipykernel==6.29.5
+ipython==8.27.0
+jupyter_client==8.6.2
+jupyter_core==5.7.2
+pandas==2.2.2
+spacy==3.8.2
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+
